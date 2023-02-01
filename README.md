@@ -1,16 +1,82 @@
-# shahab_task
+#  Animated Array App
 
-A new Flutter project.
+Flutter (3.3.3)
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+ - Onboarding screens.
+ - Animated Buttons.
+ - Sliders.
+ - Delayed Text.  
+ - Task for a Pvt. firm.
+ - GetX State management.
 
-A few resources to get you started if this is your first Flutter project:
+### Theme Colors:
+  - Dark Themed
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Demonstration:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+SOON will be uploaded....
+ 
+<!-- <img height="600px" width="300px" src="" />  -->
+
+
+<!-- ## Result Screen -->
+
+<br/>
+
+## Credits
+
+ ### [Shahab Alam](#) <br/><br/>
+
+ ### Follow
+
+
+<a  href="https://www.facebook.com/iamShahabAlam/">
+
+<img  align="left"  alt="Facebook"  width="22px"  src="https://www.facebook.com/images/fb_icon_325x325.png" />
+
+</a>
+
+
+<a href="https://github.com/IamShahabAlam">
+ <img  align = "left" src="https://cdn-icons-png.flaticon.com/512/919/919847.png"  width="22px"  alt="GitHub Icon"></a>
+
+
+
+<a  href="https://twitter.com/IamShahabAlam">
+
+<img  align="left"  alt="Twitter"  width="22px"  src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" />
+
+</a>
+
+<a  href="https://www.linkedin.com/in/iamshahabalam">
+
+<img  align="left"  alt="LinkedIn"  width="24px"  src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />
+
+</a>
+
+<a  href="mailto:IamshahabAlam@gmail.com">
+
+<img  align="left"  alt="Gmail"  width="22px"  src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+
+</a>
+
+<a  href="https://medium.com/@iamshahabalam">
+<img  align="left"  alt="Medium"  width="25px"  src="https://img.icons8.com/fluency/344/medium-logo.png" /></a>
+
+
+<a  href="https://dev.to/iamshahabalam">
+<img  align="left"  alt="DEV"  width="25px"  src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" /></a>
+
+
+<br/>
+
+&nbsp;
+
+
+<p align='left'>
+<img height="50" src="https://user-images.githubusercontent.com/82330891/203849226-b396561a-3ab1-4d80-85b1-e3accd07008c.gif"  frameBorder="10" class="giphy-embed" allowFullScreen></img> </p>
+            
+
+<!-- > :blue_heart: &nbsp; Fluttering -->
